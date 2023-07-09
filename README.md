@@ -10,7 +10,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - ### [YouTube: How To Install osTicket with Prerequisites] (https://www.youtube.com/watch?v=K7T_JjvEamg)-
 
-Environments and Technologies Used</h2>
+Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -18,7 +18,7 @@ Environments and Technologies Used</h2>
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
 <h2>List of Prerequisites</h2>
 
@@ -28,10 +28,7 @@ Environments and Technologies Used</h2>
 - install C++
 - configure permissions and install OsTicket
 
-<h2>Installation Steps</h2>
+<h2>Installation overview</h2>
 <<img width="1259" alt="image" src="https://github.com/cedi510/osticket-prereqs/assets/132964514/dfb23e70-b22c-4379-a4a3-170df752f30d">
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
